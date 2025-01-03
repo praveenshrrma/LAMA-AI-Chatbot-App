@@ -2,7 +2,11 @@
 
 ## Introduction
 
-This app will allow users to interact with an AI chatbot powered by Google’s Gemini AI. The app includes features such as real-time messaging, secure user authentication, and the ability to store chat history and user data in MongoDB. 
+This is a **full-stack ChatGPT-like application** and the goal is to create an interactive and intelligent chatbot that can converse with users in real-time, providing meaningful responses to their queries. 
+
+This application features a robust and dynamic frontend powered by **React**, ensuring a smooth and responsive user experience. On the backend, **Express** handles API requests, managing the flow of data between the user and the AI model. The **Google Gemini AI** is integrated into the application, allowing it to generate human-like responses, making the chatbot both engaging and useful for various purposes. 
+
+We also integrate a **MongoDB database** to store critical user data, such as profiles and chat history, ensuring that interactions are retained and users can revisit previous conversations. The AI model processes and responds to user input in real-time, thanks to the efficient use of **Socket.IO** for handling bidirectional communication.
 
 
 ## Tech Used
