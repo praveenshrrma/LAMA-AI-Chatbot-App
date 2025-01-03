@@ -2,9 +2,8 @@
 
 ## Introduction
 
-In this project, we will build a **full-stack ChatGPT-like application** using **React**, **Express**, **MongoDB**, and **Google Gemini AI**. This app will allow users to interact with an AI chatbot powered by Google’s Gemini AI. The app includes features such as real-time messaging, secure user authentication, and the ability to store chat history and user data in MongoDB. Finally, the app is deployed on a **VPS** using **PM2** for process management, ensuring it runs smoothly even after closing the terminal.
+This app will allow users to interact with an AI chatbot powered by Google’s Gemini AI. The app includes features such as real-time messaging, secure user authentication, and the ability to store chat history and user data in MongoDB. 
 
-This project demonstrates how to integrate a powerful AI service with a user-friendly front-end, all backed by a solid and scalable back-end. It’s perfect for anyone interested in building AI-driven applications with modern web technologies.
 
 ## Tech Used
 
@@ -21,9 +20,6 @@ This project demonstrates how to integrate a powerful AI service with a user-fri
 - **AI Integration**:
   - **Google Gemini AI**: A state-of-the-art AI model that powers the chatbot, providing intelligent responses to user inputs.
 
-- **Deployment**:
-  - **VPS (Virtual Private Server)**: Hosting environment for the app.
-  - **PM2**: A process manager that ensures the app keeps running in the background, even after closing the terminal.
 
 ## Features
 
