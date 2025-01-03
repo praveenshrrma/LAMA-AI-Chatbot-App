@@ -1,4 +1,4 @@
-# Build Your Own Full-Stack ChatGPT App for Free with React, Express, MongoDB, and Google Gemini AI
+# Full-Stack ChatGPT App for Free with React, Express, MongoDB, and Google Gemini AI
 
 ## Introduction
 
