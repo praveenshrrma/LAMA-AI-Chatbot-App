@@ -1,3 +1,16 @@
+![1](https://github.com/user-attachments/assets/1c498d0f-5111-487c-abe7-fddc6d77f371)
+![2](https://github.com/user-attachments/assets/1b51e702-82c7-4060-bea7-9699626d2d3c)
+![3](https://github.com/user-attachments/assets/bc8d4246-dd11-43d9-baf1-a6d54ff82d5c)
+![4](https://github.com/user-attachments/assets/0583eb2e-478a-4834-92ed-0ad77c2e93de)
+
+
+![2](https://github.com/user-attachments/assets/160c62db-e621-44bc-ba64-89012b8e2a7b)
+![3](https://github.com/user-attachments/assets/ccc45696-5039-40c5-8d57-30dec5e6d3bb)
+![4](https://github.com/user-attachments/assets/07d8bddc-a638-47c6-989f-f1a0364f527b)
+![1](https://github.com/user-attachments/assets/36df4ac2-68f0-408e-ac3f-19a2fab09ce1)
+
+
+
 # Full-Stack ChatGPT App for Free with React, Express, MongoDB, and Google Gemini AI
 
 ## Introduction
