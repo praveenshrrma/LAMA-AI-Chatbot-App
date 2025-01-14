@@ -1,16 +1,15 @@
-![1](https://github.com/user-attachments/assets/463b06c6-2201-457a-a312-ab26bb51da82)
-![2](https://github.com/user-attachments/assets/012d32d1-c419-4df8-b4f4-a198143991b5)
-![3](https://github.com/user-attachments/assets/a0ed62b7-f074-4bb1-a811-de4ddb0a13a9)
-![4](https://github.com/user-attachments/assets/1e093752-5543-49d4-ad7d-156484de636a)
+<img src="images/1.gif" alt="GIF 1" width="100%"/>
+<img src="images/2.gif" alt="GIF 2" width="100%"/>
+<img src="images/3.gif" alt="GIF 3" width="100%"/>
+<img src="images/4.gif" alt="GIF 4" width="100%"/>
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/36df4ac2-68f0-408e-ac3f-19a2fab09ce1" alt="Image 1" style="width: 49%;">
-  <img src="https://github.com/user-attachments/assets/160c62db-e621-44bc-ba64-89012b8e2a7b" alt="Image 2" style="width: 49%;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="images/1.jpg" alt="Image 1" width="49%">
+  <img src="images/2.jpg" alt="Image 2" width="49%">
 </div>
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/ccc45696-5039-40c5-8d57-30dec5e6d3bb" alt="Image 3" style="width: 49%;">
-  <img src="https://github.com/user-attachments/assets/07d8bddc-a638-47c6-989f-f1a0364f527b" alt="Image 4" style="width: 49%;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="images/3.jpg" alt="Image 3" width="49%">
+  <img src="images/4.jpg" alt="Image 4" width="49%">
 </div>
 
 # Full-Stack ChatGPT App for Free with React, Express, MongoDB, and Google Gemini AI
